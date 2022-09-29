@@ -1,0 +1,58 @@
+.banner{
+filter:brightness(60%);
+width: 100%;
+position: relative;
+}
+.wrap{
+width:98,5vw;
+height:90vh;
+display:flex;
+align-items:center;
+justify-content:center;
+background: linear-gradient(to right, rgb(0 0 0 / .5), rgb(0 0 0 / .5)), url(/C:/Users/User/Desktop/JAVA/Integrador/ba1.jpg) ;
+background-size: cover;
+background-position: center;
+}
+.wrap-texto{
+  color: white;
+  text-align: right;
+  width: 80%;
+}
+h6{
+    margin: 20px;
+text-align: center;
+}
+h4{
+text-align: center;
+}
+.img1{
+width: 2000px;
+  }
+.oscuro{
+background-color:rgb(51,58,64)
+  }
+.honolulu1{
+margin: 100px 0px 50px 0px;
+  }
+.margincard1{
+margin: 150px 10px 100px 500px;
+    }
+h2{
+text-align: center;
+    }
+.btn-manzana{
+    background-color: rgb(150, 201, 62);
+        }
+.tuki{
+    background: linear-gradient(to right, rgb(28 57 71), rgb(29 82 113));
+    padding: 20px;
+}
+.tuki2{
+margin: 20px;
+}
+.codoacodoimg{
+  margin: 10px 20px 10px 20px;
+  }
+.colorbg{
+    background-color: rgb(53, 58, 64);
+    }
