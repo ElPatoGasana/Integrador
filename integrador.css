@@ -9,7 +9,7 @@ height:90vh;
 display:flex;
 align-items:center;
 justify-content:center;
-background: linear-gradient(to right, rgb(0 0 0 / .5), rgb(0 0 0 / .5)), url(/C:/Users/User/Desktop/JAVA/Integrador/ba1.jpg) ;
+background: linear-gradient(to right, rgb(0 0 0 / .5), rgb(0 0 0 / .5)), url(./ba1.jpg) ;
 background-size: cover;
 background-position: center;
 }
