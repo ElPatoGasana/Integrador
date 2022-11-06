@@ -56,3 +56,18 @@ margin: 20px;
 .colorbg{
     background-color: rgb(53, 58, 64);
     }
+.taka{
+  padding: 15vh;
+  }
+.taka2{
+  margin: 10vh;
+    }
+h5{
+  text-align: center;
+  }
+.texto2{
+  text-align: center;
+  }
+  .colorcyan {
+    background-color: rgba(151, 213, 255, 0.973);
+}
